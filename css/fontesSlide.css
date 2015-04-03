@@ -1,0 +1,14 @@
+/* Fontes para o slide */
+@font-face {
+    font-family: 'LainieDaySh';
+    src: url('fonts/Laine.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Labtop';
+    src: url('fonts/Labtop.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
